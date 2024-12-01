@@ -3,7 +3,9 @@ A Python-based Employee Management System with a modern GUI built using customtk
 
 Features
 Add New Employee: Input details such as ID, Name, Phone, Role, Gender, and Salary.
+
 Update Employee: Modify existing employee records.
+
 Delete Employee: Remove individual employee records.
 Delete All Records: Clear the entire employee database.
 Search Employee: Find employees by specific fields like ID, Name, Role, etc.
